@@ -1,0 +1,2 @@
+[29-Mar-2017 01:27:47 America/Denver] PHP Fatal error:  Call to a member function get_results() on null in /home2/ivygatec/public_html/wp-content/themes/ivygate/js/ajax.php on line 2
+[29-Mar-2017 01:27:51 America/Denver] PHP Fatal error:  Call to a member function get_results() on null in /home2/ivygatec/public_html/wp-content/themes/ivygate/js/ajax.php on line 2
